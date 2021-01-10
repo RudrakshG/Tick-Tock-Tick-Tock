@@ -1,2 +1,2 @@
-# Tick-Tock-Tick-Tock
-Tic-Tic-Tic!!!!
+# p5.play-boilerplate
+Boiler plate for p5.play
